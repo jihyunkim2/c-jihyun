@@ -1,0 +1,28 @@
+C:\Users\WORK\source\repos\Object\bin\Debug\net8.0\Object.exe
+C:\Users\WORK\source\repos\Object\bin\Debug\net8.0\Object.deps.json
+C:\Users\WORK\source\repos\Object\bin\Debug\net8.0\Object.runtimeconfig.json
+C:\Users\WORK\source\repos\Object\bin\Debug\net8.0\Object.dll
+C:\Users\WORK\source\repos\Object\bin\Debug\net8.0\Object.pdb
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.AssemblyInfo.cs
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.dll
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\refint\Object.dll
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.pdb
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\Object.genruntimeconfig.cache
+C:\Users\WORK\source\repos\Object\obj\Debug\net8.0\ref\Object.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\bin\Debug\net8.0\Object.exe
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\bin\Debug\net8.0\Object.deps.json
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\bin\Debug\net8.0\Object.runtimeconfig.json
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\bin\Debug\net8.0\Object.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\bin\Debug\net8.0\Object.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.AssemblyInfoInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.AssemblyInfo.cs
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\refint\Object.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\Object.genruntimeconfig.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Object\obj\Debug\net8.0\ref\Object.dll

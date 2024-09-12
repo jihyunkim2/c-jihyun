@@ -1,0 +1,4 @@
+C:\Users\WORK\Desktop\로컬\새 폴더\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\Desktop\로컬\새 폴더\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\Users\WORK\Desktop\로컬\새 폴더\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache

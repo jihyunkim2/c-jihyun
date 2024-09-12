@@ -1,0 +1,14 @@
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\bin\Debug\net8.0\Chapter3.exe
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\bin\Debug\net8.0\Chapter3.deps.json
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\bin\Debug\net8.0\Chapter3.runtimeconfig.json
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\bin\Debug\net8.0\Chapter3.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\bin\Debug\net8.0\Chapter3.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.AssemblyInfoInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.AssemblyInfo.cs
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.csproj.CoreCompileInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\refint\Chapter3.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\Chapter3.genruntimeconfig.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Practice3\obj\Debug\net8.0\ref\Chapter3.dll

@@ -1,0 +1,28 @@
+C:\Users\WORK\source\repos\ShiftOperator\bin\Debug\net8.0\ShiftOperator.exe
+C:\Users\WORK\source\repos\ShiftOperator\bin\Debug\net8.0\ShiftOperator.deps.json
+C:\Users\WORK\source\repos\ShiftOperator\bin\Debug\net8.0\ShiftOperator.runtimeconfig.json
+C:\Users\WORK\source\repos\ShiftOperator\bin\Debug\net8.0\ShiftOperator.dll
+C:\Users\WORK\source\repos\ShiftOperator\bin\Debug\net8.0\ShiftOperator.pdb
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfo.cs
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.dll
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\refint\ShiftOperator.dll
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.pdb
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ShiftOperator.genruntimeconfig.cache
+C:\Users\WORK\source\repos\ShiftOperator\obj\Debug\net8.0\ref\ShiftOperator.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\bin\Debug\net8.0\ShiftOperator.exe
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\bin\Debug\net8.0\ShiftOperator.deps.json
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\bin\Debug\net8.0\ShiftOperator.runtimeconfig.json
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\bin\Debug\net8.0\ShiftOperator.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\bin\Debug\net8.0\ShiftOperator.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.AssemblyInfo.cs
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\refint\ShiftOperator.dll
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ShiftOperator.genruntimeconfig.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\ShiftOperator\obj\Debug\net8.0\ref\ShiftOperator.dll

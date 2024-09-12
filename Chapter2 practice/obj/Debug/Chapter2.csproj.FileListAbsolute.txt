@@ -1,0 +1,14 @@
+C:\Users\WORK\source\repos\Chapter2 practice\bin\Debug\Chapter2 practice.exe.config
+C:\Users\WORK\source\repos\Chapter2 practice\bin\Debug\Chapter2 practice.exe
+C:\Users\WORK\source\repos\Chapter2 practice\bin\Debug\Chapter2 practice.pdb
+C:\Users\WORK\source\repos\Chapter2 practice\obj\Debug\Chapter2.csproj.AssemblyReference.cache
+C:\Users\WORK\source\repos\Chapter2 practice\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
+C:\Users\WORK\source\repos\Chapter2 practice\obj\Debug\Chapter2 practice.exe
+C:\Users\WORK\source\repos\Chapter2 practice\obj\Debug\Chapter2 practice.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\bin\Debug\Chapter2 practice.exe.config
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\bin\Debug\Chapter2 practice.exe
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\bin\Debug\Chapter2 practice.pdb
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2.csproj.AssemblyReference.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2 practice.exe
+C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2 practice.pdb
