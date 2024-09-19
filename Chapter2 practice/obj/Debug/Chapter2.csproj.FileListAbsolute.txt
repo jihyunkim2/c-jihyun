@@ -12,3 +12,10 @@ C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2.csp
 C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
 C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2 practice.exe
 C:\Users\WORK\Desktop\로컬\새 폴더\Chapter2 practice\obj\Debug\Chapter2 practice.pdb
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\bin\Debug\Chapter2 practice.exe.config
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\bin\Debug\Chapter2 practice.exe
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\bin\Debug\Chapter2 practice.pdb
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\obj\Debug\Chapter2.csproj.AssemblyReference.cache
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\obj\Debug\Chapter2.csproj.CoreCompileInputs.cache
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\obj\Debug\Chapter2 practice.exe
+C:\Users\WORK\Desktop\GitHub\c-jihyun\Chapter2 practice\obj\Debug\Chapter2 practice.pdb

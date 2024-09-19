@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShiftOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c050b3af6d06d011e0af6d5575f56c8e9c1331dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f2150164ce83325a41cf0fce64b20c0339bb99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShiftOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShiftOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
